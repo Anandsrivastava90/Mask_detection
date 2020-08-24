@@ -7,7 +7,7 @@ Python=3.6
 
 Tensorflow 1.14 
 
-OpenCV 
+opencv-python==4.1.0.25
 
 Pycharm
 
@@ -20,6 +20,9 @@ Faster R-CNN can solve the problem that Fast RCNN uses the third-party tool sele
 
 
 ![Screenshot](fast1.png)
+
+#Output 
+
 
 
 

@@ -4,8 +4,11 @@ The Purpose of this project to detect mask on the face , In the Current Pandemic
 # Technology Used
 
 Python=3.6
+
 Tensorflow 1.14 
+
 OpenCV 
+
 Pycharm
 
 
@@ -16,7 +19,7 @@ Faster-rcnn is one of the most classic algorithms in the field of object detecti
 Faster R-CNN can solve the problem that Fast RCNN uses the third-party tool selective search to extract the region proposal. It uses RPN instead of selective search to make the entire target detection function into a unified network. Faster RCNN uses RPN to make the calculation of region proposals more elegant and efficient. RPN is a full convolutional network. Candidate region generation and target detection share convolutional features. Attention mechanism is used . RPN will tell the network where to focus.
 
 
-
+![Screenshot](fast1.png)
 
 
 
